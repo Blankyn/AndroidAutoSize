@@ -33,8 +33,8 @@ ext {
     targetSdkVersion = 29
     compileSdkVersion = 29
     buildToolsVersion = "29.0.3"
-    versionCode = 102
-    versionName = "1.0.2"
+    versionCode = 100
+    versionName = "1.0.0"
     appcompat_v7 = "com.android.support:appcompat-v7:28.0.0"
     androidx_appcompat = "androidx.appcompat:appcompat:1.1.0"
 }

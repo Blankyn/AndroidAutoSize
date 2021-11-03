@@ -68,7 +68,7 @@ Step 2. Add the dependency
 
 ```gradle
 dependencies {
-      implementation 'com.github.Blankyn:AndroidAutoSize:V1.1'
+      implementation 'com.github.Blankyn:AndroidAutoSize:1.0.0'//目前仅支持AndroidX
 }
 ```
 
