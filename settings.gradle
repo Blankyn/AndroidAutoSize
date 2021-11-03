@@ -1,4 +1,4 @@
-//include ':demo'
-//include ':demo-subunits'
-include ':demo-androidx'
+include ':demo'
+include ':demo-subunits'
+//include ':demo-androidx'
 include ':autosize'

@@ -36,8 +36,8 @@ android {
 }
 
 dependencies {
-//    compileOnly rootProject.appcompat_v7
-    compileOnly rootProject.androidx_appcompat
+    compileOnly rootProject.appcompat_v7
+//    compileOnly rootProject.androidx_appcompat
 }
 
 
