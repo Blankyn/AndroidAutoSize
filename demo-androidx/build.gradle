@@ -21,9 +21,10 @@ android {
 }
 
 dependencies {
-    implementation project(':autosize')
+//    implementation project(':autosize')
     implementation rootProject.androidx_appcompat
     testImplementation 'junit:junit:4.12'
+    implementation 'com.github.Blankyn:androidautosize:1.0.0'
 //    implementation 'com.github.Blankyn:AndroidAutoSize:1.3'
 
 }
