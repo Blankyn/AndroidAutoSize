@@ -61,14 +61,14 @@ public class ActivityLifecycleCallbacksImpl implements Application.ActivityLifec
     }
 
     @Override
-    public void onActivityStarted(Activity activity) {
+    public void onActivityStarted(@NonNull Activity activity) {
         if (mAutoAdaptStrategy != null) {
             mAutoAdaptStrategy.applyAdapt(activity, activity);
         }
     }
 
     @Override
-    public void onActivityResumed(Activity activity) {
+    public void onActivityResumed(@NonNull Activity activity) {
 
     }
 
